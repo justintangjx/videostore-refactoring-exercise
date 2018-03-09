@@ -41,4 +41,4 @@ module.exports = function statement(customer, movies) {
   result += `You earned ${frequentRenterPoints} frequent renter points\n`;
 
   return result;
-}
+};
